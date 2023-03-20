@@ -1,5 +1,5 @@
 import { APIKeyCard } from "./api-key.styled";
-import { H1Text, PText } from "../app.styled";
+import { H1Text, PText } from "../App.styled";
 
 const APIkey = () => {
   return (
