@@ -1,10 +1,10 @@
 import { APIKeyCard } from "./api-key.styled";
-import { H1Text, PText } from "../App.styled";
+import { H2Text, PText } from "../App.styled";
 
 const APIkey = () => {
   return (
     <APIKeyCard>
-      <H1Text>hello</H1Text>
+      <H2Text>Enter Your OpenAI API Key:</H2Text>
     </APIKeyCard>
   );
 };
