@@ -4,7 +4,7 @@ export const PageContainer = styled.div`
   min-width: 1000px;
 `;
 
-export const H1Text = styled.h1`
+export const H2Text = styled.h2`
   font-family: "IBM Plex Sans Devanagari";
 `;
 
