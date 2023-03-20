@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const PageContainer = styled.div`
-  max-width: 1000px;
+  min-width: 1000px;
 `;
 
 export const H1Text = styled.h1`
