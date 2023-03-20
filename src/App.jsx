@@ -1,5 +1,7 @@
+import APIkey from "./api-key/api-key";
+
 const App = () => {
-  return <h1>hello</h1>;
+  return <APIkey />;
 };
 
 export default App;
