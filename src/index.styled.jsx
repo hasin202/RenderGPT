@@ -8,4 +8,9 @@ export const Body = createGlobalStyle`
         margin-block-end: 0;
         box-sizing: border-box;
     }
+
+    body {
+        display: flex;
+        flex-direction: column;
+    }
 `;
